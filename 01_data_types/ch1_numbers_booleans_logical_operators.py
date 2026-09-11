@@ -1,5 +1,5 @@
 #Mutability and Immutability
-#Mutable:The same object can be modified without creating a new object. Mutable = same object, changed value.
+#Mutable:The same object can be modified without creating a new object. Mutable = same object, value can be changed.
 #Immutable: The same object cannot be modified. If you try to change its value, Python creates/uses a different object, and the variable refers to that new object. Immutable = new object, new value.
 
 # Numbers

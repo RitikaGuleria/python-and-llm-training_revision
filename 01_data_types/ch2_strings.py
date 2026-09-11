@@ -19,3 +19,4 @@ print(encoded_text.decode('utf-8')) # Decoding
 
 
 
+#strings are immutable. You cannot modify that existing string object by changing one of its characters.

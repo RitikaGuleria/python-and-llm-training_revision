@@ -17,3 +17,5 @@ print(f"a:{a}, b:{b}")
 
 # membership testing
 print(f"Is cardomom in spices? {"cardomom" in spices}")
+
+# You cannot change the tuple's elements/references. But if a tuple contains a mutable object, you can modify that object.

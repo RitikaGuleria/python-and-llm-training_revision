@@ -1,5 +1,5 @@
 # set : It is a collection of unique elements. It is defined using set() constructor.  set is similar like math, it is unordered and unindexed. 
-# It is mutable but it can only contain immutable elements. 
+# It is mutable but it can only contain immutable elements. But its elements must be hashable.
 # SET
 # {  10,  "hello",  (1,2)  }
 #     ↑      ↑        ↑

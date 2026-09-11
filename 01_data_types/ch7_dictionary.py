@@ -1,3 +1,4 @@
+# A dictionary is mutable
 names = dict(type="boys", count = 3, grade = "A")
 print(names)
 
@@ -25,3 +26,7 @@ meals.update(drinks)
 print(meals)
 
 # everything like union etc supported in dict as well like set
+
+# Dictionary keys → must be hashable.
+# Set elements → must be hashable.
+# Mutable objects like lists and dictionaries → are not hashable.
